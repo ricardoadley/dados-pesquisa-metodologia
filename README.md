@@ -14,4 +14,4 @@ Ricardo Adley da Silva Sena
 ## Fonte de dados
 Foi aplicado um formulário anonimo entre os graduandos do curso em ciência da computação da UFCG, tendo uma participação total de 114 participantes, o csv com os dados coletados pode ser acessados:</br>
 [csv bruto do formulário](/dados_met.csv)</br>
-[csv tratado com nome das colunas tratado](/data.csv)
+[csv com nome das colunas tratado](/data.csv)
