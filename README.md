@@ -1,4 +1,4 @@
-# Dados Pesquisa 
+# Dados Pesquisa Computação UFCG
 
 ## O tema alvo da pesquisa foi
 A influência dos jogos digitais no ingresso e desempenho na graduação em Ciência da Computação
